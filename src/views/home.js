@@ -13,7 +13,7 @@ const Home = (props) => {
   return (
     <div className="home-container1">
       <Helmet>
-        <title>Planical modern template</title>
+        <title>CubeSwap | Meter.io</title>
         <meta property="og:title" content="Planical modern template" />
       </Helmet>
       <Navbar rootClassName="navbarroot-class-name"></Navbar>
