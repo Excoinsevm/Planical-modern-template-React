@@ -120,12 +120,6 @@
   margin: auto;
   position: absolute;
   object-fit: cover;
-  animation-name: none;
-  animation-delay: 0s;
-  animation-duration: 300ms;
-  animation-direction: normal;
-  animation-iteration-count: 1;
-  animation-timing-function: ease;
 }
 .home-image3 {
   display: none;
@@ -462,6 +456,12 @@
 }
 .home-image8 {
   object-fit: cover;
+  animation-name: none;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
 }
 .home-content6 {
   gap: var(--dl-space-space-threeunits);

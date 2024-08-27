@@ -75,10 +75,18 @@ const Home = (props) => {
             </main>
           </div>
           <div className="home-image1">
-            <img alt="image" src="/cubes-1500h.png" className="home-image2" />
+            <img
+              alt="image"
+              src="/SectionImages/cubes-1500h.png"
+              className="home-image2"
+            />
           </div>
           <div className="home-image3">
-            <img alt="image" src="/cubes-1500h.png" className="home-image4" />
+            <img
+              alt="image"
+              src="/SectionImages/cubes-1500h.png"
+              className="home-image4"
+            />
           </div>
         </div>
       </section>
@@ -137,21 +145,11 @@ const Home = (props) => {
             </a>
           </div>
           <div className="home-image5">
-            <animate-on-reveal
-              animation="slideInRight"
-              duration="300ms"
-              delay="0s"
-              direction="normal"
-              easing="ease"
-              iteration="1"
-            >
-              <img
-                alt="image"
-                src="/Branding/logo-1200w.png"
-                data-thq-animate-on-reveal="true"
-                className="home-image6"
-              />
-            </animate-on-reveal>
+            <img
+              alt="image"
+              src="/Branding/logo-1200w.png"
+              className="home-image6"
+            />
           </div>
         </div>
       </section>
@@ -243,21 +241,11 @@ const Home = (props) => {
         </section>
         <section className="home-note4">
           <div className="home-image7">
-            <animate-on-reveal
-              animation="slideInLeft"
-              duration="300ms"
-              delay="0s"
-              direction="normal"
-              easing="ease"
-              iteration="1"
-            >
-              <img
-                alt="image"
-                src="/SectionImages/cubes2-1200w.png"
-                data-thq-animate-on-reveal="true"
-                className="home-image8"
-              />
-            </animate-on-reveal>
+            <img
+              alt="image"
+              src="/SectionImages/cubes2-1200w.png"
+              className="home-image8"
+            />
           </div>
           <div className="home-content6">
             <div className="home-main6">
@@ -487,21 +475,11 @@ const Home = (props) => {
               </a>
             </div>
           </header>
-          <animate-on-reveal
-            animation="slideInRight"
-            duration="300ms"
-            delay="0s"
-            direction="normal"
-            easing="ease"
-            iteration="1"
-          >
-            <img
-              alt="image"
-              src="/SectionImages/untitled_design__9_-removebg-preview-1200w.png"
-              data-thq-animate-on-reveal="true"
-              className="home-image9"
-            />
-          </animate-on-reveal>
+          <img
+            alt="image"
+            src="/SectionImages/untitled_design__9_-removebg-preview-1200w.png"
+            className="home-image9"
+          />
         </main>
       </section>
       <Footer
